@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi, I'm Fatima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Abdullah Jameel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">Aspiring AI Developer | Graphic Designer | Coding Enthusiast</h3>
 
 <p align="center">
