@@ -1,6 +1,12 @@
-### Hi there, I'm Abdullah Jameel 👋
+<!-- GitHub Profile README -->
 
-Welcome to my GitHub profile! I'm an aspiring software engineer and passionate web developer. I love crafting interactive web applications and constantly learning new technologies to become the best coder. Here’s more about me:
+<h1 align="center">Hi, I'm Fatima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">Aspiring AI Developer | Graphic Designer | Coding Enthusiast</h3>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
+</p>
+
 
 ---
 
