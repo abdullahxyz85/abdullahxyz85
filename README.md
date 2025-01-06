@@ -1,133 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abdullah Bhatti - GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: linear-gradient(to right, #1c92d2, #f2fcfe);
-            color: #333;
-        }
+### Hi there, I'm Abdullah Jameel 👋
 
-        header {
-            text-align: center;
-            padding: 2rem;
-            background: #004e92;
-            color: white;
-        }
+Welcome to my GitHub profile! I'm an aspiring software engineer and passionate web developer. I love crafting interactive web applications and constantly learning new technologies to become the best coder. Here’s more about me:
 
-        header h1 {
-            font-size: 2.5rem;
-        }
+---
 
-        header p {
-            font-size: 1.2rem;
-        }
+## 🔗 About Me
+- 📚 Intermediate graduate from Punjab Group of Colleges, Pattoki
+- ⚙️ Exploring advanced JavaScript and React
+- 🌐 Building Chrome extensions and web development projects
+- ✈ Dreaming of coding for Google
+- 💍 Mentor-guided by Abdul Quddos and Dr. Zafar Shahid
+- 💰 First salary earned by teaching children
+- 📈 Active participant in coding challenges like Advent of Code
+- ✨ Always excited to collaborate on open-source projects
+- 🌿 Enthusiastic about learning AI and machine learning basics
 
-        section {
-            max-width: 900px;
-            margin: 2rem auto;
-            padding: 1rem;
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
+---
 
-        section h2 {
-            font-size: 1.8rem;
-            margin-bottom: 1rem;
-            color: #004e92;
-        }
+## 🌈 Skill Sets
+### Languages & Tools
+<div style="display: flex; align-items: center; gap: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap" />
+</div>
 
-        .skills {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1rem;
-            justify-content: center;
-        }
+---
 
-        .skills span {
-            padding: 0.5rem 1rem;
-            background: #004e92;
-            color: white;
-            border-radius: 5px;
-            font-size: 1rem;
-        }
+## 📢 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Jameel-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdullah-jameel-12345)  
+[![GitHub](https://img.shields.io/badge/GitHub-Abdullah%20Jameel-black?style=for-the-badge&logo=github)](https://github.com/AbdullahJameel123)
+[![Twitter](https://img.shields.io/badge/Twitter-Abdullah%20Jameel-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/AbdullahJameel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer)](https://abdullahjameel.dev)
 
-        .connect a {
-            margin: 0.5rem;
-            text-decoration: none;
-            color: #004e92;
-            font-size: 1.2rem;
-        }
+---
 
-        .connect a:hover {
-            text-decoration: underline;
-        }
+## 🎯 GitHub Stats
+![Abdullah Jameel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahJameel&show_icons=true&theme=radical)
 
-        .github-stats img {
-            width: 100%;
-            max-width: 500px;
-            margin: 0 auto;
-            display: block;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>👋 Hi, I'm Abdullah Bhatti</h1>
-        <p>Aspiring Software Engineer | Frontend Developer | Chrome Extensions Developer</p>
-    </header>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahJameel&layout=compact&theme=radical)
 
-    <section>
-        <h2>📖 About Me</h2>
-        <p>
-            I'm Abdullah Bhatti, a passionate web developer and aspiring software engineer. I specialize in HTML, CSS, JavaScript, and enjoy building interactive projects and solving challenging problems. My mentors, including Dr. Zafar Shahid and Sir Abdul-Quddos, have guided me in my journey to become the best coder and achieve my dream of working for Google.
-        </p>
-    </section>
+---
 
-    <section>
-        <h2>💻 Skill Sets</h2>
-        <div class="skills">
-            <span>HTML</span>
-            <span>CSS</span>
-            <span>JavaScript</span>
-            <span>React (Beginner)</span>
-            <span>Chrome Extensions Development</span>
-            <span>Git/GitHub</span>
-        </div>
-    </section>
+## 🎨 Additional Information
+### My Projects:
+- Weather App ☁️ | Stopwatch App ⏱ | To-Do List App 🔄
+- Random Password Generator | Advent of Code solutions
+- Burger, Pizza & Fries Poster (Canva project)
+- Chrome Extension: Color Picker Tool
+- Simple Calculator | Profile Background Generator
 
-    <section>
-        <h2>📞 Connect with Me</h2>
-        <div class="connect">
-            <a href="https://www.linkedin.com/in/abdullah-bhatti" target="_blank">LinkedIn</a>
-            <a href="https://github.com/AbdullahBhatti" target="_blank">GitHub</a>
-            <a href="https://techbunyaad.com" target="_blank">Tech Bunyaad</a>
-        </div>
-    </section>
+### Interests:
+- Web Development 🌐
+- Chrome Extensions 🌈
+- Competitive Programming 🔧
+- AI and Machine Learning 🤖
+- E-commerce platforms like Shopify and Daraz
 
-    <section>
-        <h2>📊 GitHub Stats</h2>
-        <div class="github-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=AbdullahBhatti&show_icons=true&theme=radical" alt="Abdullah's GitHub Stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahBhatti&theme=radical" alt="GitHub Streak">
-        </div>
-    </section>
+### Goals:
+- Learn e-commerce platforms and build online stores
+- Master LeetCode problem-solving
+- Create impactful and user-friendly Chrome extensions
+- Build a portfolio of unique web applications
 
-    <section>
-        <h2>✨ Additional Information</h2>
-        <p>
-            - Completed <strong>Advent of Code 2024</strong>, solving all 25 days of challenges.<br>
-            - First earned salary by teaching kids.<br>
-            - Projects include a weather app, stopwatch, to-do list, random password generator, and more.<br>
-            - Aim to post more projects on LinkedIn to inspire and connect with like-minded developers.
-        </p>
-    </section>
-</body>
-</html>
+---
 
+Thank you for visiting my profile! Let’s connect and collaborate on exciting projects. 🌟
