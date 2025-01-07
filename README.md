@@ -24,16 +24,60 @@
 ---
 
 ## 🌈 Skill Sets
-### Languages & Tools
-<div style="display: flex; align-items: center; gap: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap" />
+<table><tr><td valign="top" width="25%">
+  
+### Machine Learning
+<a href="https://github.com/arhamansari11/">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
 </div>
+</a>
+</td><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/arhamansari11/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Backend
+<a href="https://github.com/arhamansari11/">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+</div>
+</a>
+
+</td>
+</tr>
+<tr><td valign="top" width="25%">
+
+### Code Editors  
+<a href="https://github.com/arhamansari11/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+    
+###  Languages
+<a href="https://github.com/arhamansari11/">
+<div align="center"> 
+    <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
+
+### Others 
+<a href="https://github.com/arhamansari11/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
+</div>
+</a>
+ </td> 
+</tr>
+</table>
 
 ---
 
