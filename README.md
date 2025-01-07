@@ -99,11 +99,11 @@
 
 
 
- <p align="center">
-   <a href="https://github.com/abdullahxyz85"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahxyz85&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
- </p>
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://streak-stats.demolab.com?user=abdullahxyz85&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+  </a>
+</p>
 
 <br>
 
