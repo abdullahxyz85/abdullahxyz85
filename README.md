@@ -100,7 +100,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/abdullahxyz85">
     <img src="https://streak-stats.demolab.com?user=abdullahxyz85&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak"/>
   </a>
 </p>
