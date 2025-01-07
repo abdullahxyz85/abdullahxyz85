@@ -24,7 +24,7 @@
 ---
 
 ## 🌈 Skill Sets
-<table><tr><td valign="top" width="25%">
+<table align="center"><tr><td valign="top" width="25%">
   
 ### Machine Learning
 <a href="https://github.com/arhamansari11/">
