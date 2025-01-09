@@ -83,7 +83,7 @@
 ---
 
 ## 📢 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Jameel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullahjameel94/)  
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/abdullahjameel94/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah%20Jameel-black?style=for-the-badge&logo=github)](https://github.com/abdullahxyz85)
 [![Twitter](https://img.shields.io/badge/Twitter-Abdullah%20Jameel-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/AbdullahJameel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer)](https://abdullahjameel.dev)
