@@ -83,6 +83,22 @@
 ---
 
 ## 📢 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullahjameel94/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/abdullahxyz85" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/AbdullahJameel" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Abdullah%20Jameel-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="https://abdullahjameel.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer" alt="Portfolio"/>
+  </a>
+</p>
+
+
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/abdullahjameel94/)  
 [![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/abdullahxyz85)
 [![Twitter](https://img.shields.io/badge/Twitter-Abdullah%20Jameel-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/AbdullahJameel)
