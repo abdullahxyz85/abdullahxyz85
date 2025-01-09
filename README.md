@@ -114,11 +114,12 @@
         <img height="180em" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
     <br><br>
-    <p align="center">
+  <p align="center">
   <a href="https://github.com/abdullahxyz85">
-    <img src="https://streak-stats.demolab.com?user=abdullahxyz85&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" style="margin-top: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6); border-radius: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
   </a>
 </p>
+
 
 </div>
 
