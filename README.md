@@ -83,18 +83,18 @@
 ---
 
 ## 📢 Connect with Me
-<div align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 10px;">
+<div align="center" style="padding: 20px; background: linear-gradient(to right, #4facfe, #00f2fe); border-radius: 15px;">
   <a href="https://www.linkedin.com/in/abdullahjameel94/" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50" style="border-radius: 50%; border: 2px solid white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   </a>
   <a href="https://github.com/abdullahxyz85" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" style="border-radius: 50%; border: 2px solid white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   </a>
   <a href="https://twitter.com/AbdullahJameel" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-Abdullah%20Jameel-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://img.shields.io/badge/Twitter-Abdullah%20Jameel-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 10px;"/>
   </a>
   <a href="https://abdullahjameel.dev" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer" alt="Portfolio" style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+    <img src="https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer" alt="Portfolio" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 10px;"/>
   </a>
 </div>
 
