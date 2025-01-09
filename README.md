@@ -22,6 +22,7 @@
 - 🌿 Enthusiastic about learning AI and machine learning basics
 
 ---
+[![Abdullah github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=dracula)](https://github.com/abdullahxyz85/github-readme-activity-graph)
 
 ## 🌈 Skill Sets
 <table align="center"><tr><td valign="top" width="25%">
