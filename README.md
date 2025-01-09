@@ -107,22 +107,18 @@
 ---
 
 ## 🎯 GitHub Stats
-<p align="center">
-    <a href="https://github.com/abdullahxyz85">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+<div align="center" style="background: linear-gradient(to bottom, #1e293b, #0f172a); padding: 20px; border-radius: 10px;">
+    <h2 style="color: #ffffff; font-family: Arial, sans-serif; margin-bottom: 20px;">My GitHub Stats</h2>
+    <a href="https://github.com/abdullahxyz85" style="text-decoration: none;">
+        <img height="180em" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
-</p>
+    <br><br>
+    <a href="https://github.com/abdullahxyz85" style="text-decoration: none;">
+        <img src="https://streak-stats.demolab.com?user=abdullahxyz85&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" style="margin-top: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6); border-radius: 10px;"/>
+    </a>
+</div>
 
-
-
-<p align="center">
-  <a href="https://github.com/abdullahxyz85">
-    <img src="https://streak-stats.demolab.com?user=abdullahxyz85&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<br>
 
 #
 
