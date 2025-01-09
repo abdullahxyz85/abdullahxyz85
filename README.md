@@ -88,7 +88,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50" style="border-radius: 50%; border: 2px solid white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   </a>
   <a href="https://github.com/abdullahxyz85" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="50" style="border-radius: 50%; border: 2px solid white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="50" style="border-radius: 50%; border: 2px solid white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   </a>
   <a href="https://twitter.com/AbdullahJameel" target="_blank" style="margin: 0 15px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Twitter-Abdullah%20Jameel-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 10px;"/>
