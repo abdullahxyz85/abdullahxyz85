@@ -97,13 +97,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer" alt="Portfolio" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 10px;"/>
   </a>
 </div>
-
-
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/abdullahjameel94/)  
-[![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/abdullahxyz85)
-[![Twitter](https://img.shields.io/badge/Twitter-Abdullah%20Jameel-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/AbdullahJameel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer)](https://abdullahjameel.dev)
-
 ---
 
 ## 🎯 GitHub Stats
