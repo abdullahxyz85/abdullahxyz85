@@ -107,19 +107,19 @@
 ---
 
 ## 🎯 GitHub Stats
-<div align="center" style="background: linear-gradient(to bottom, #1e293b, #0f172a); padding: 20px; border-radius: 10px;">
-    <h2 style="color: #ffffff; font-family: Arial, sans-serif; margin-bottom: 20px;">My GitHub Stats</h2>
-    <a href="https://github.com/abdullahxyz85" style="text-decoration: none;">
-        <img height="180em" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-    <br><br>
-  <p align="center">
-  <a href="https://github.com/abdullahxyz85">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  </a>
-</p>
+<div align="center">
 
+  <!-- GitHub Stats Section -->
+  <a href="https://github.com/abdullahxyz85">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=8&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
+  </a>
+
+  <!-- GitHub Streak Section -->
+  <br/>
+  <a href="https://github.com/abdullahxyz85">
+    <img src="https://streak-stats.demolab.com?user=abdullahxyz85&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" style="margin-top: 15px;"/>
+  </a>
 
 </div>
 
