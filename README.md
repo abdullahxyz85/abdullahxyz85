@@ -104,8 +104,8 @@
 
   <!-- GitHub Stats Section -->
   <a href="https://github.com/abdullahxyz85">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=8&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=HackStream&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=8&layout=compact&theme=HackStream&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
 
   <!-- GitHub Streak Section -->
