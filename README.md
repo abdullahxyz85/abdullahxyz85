@@ -22,7 +22,7 @@
 - 🌿 Enthusiastic about learning AI and machine learning basics
 
 ---
-[![Abdullah github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=merko)](https://github.com/abdullahxyz85/github-readme-activity-graph)
+
 
 ## 🌈 Skill Sets
 <table align="center"><tr><td valign="top" width="25%">
@@ -104,15 +104,11 @@
 
   <!-- GitHub Stats Section -->
   <a href="https://github.com/abdullahxyz85">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=HackStream&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=8&layout=compact&theme=HackStream&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
 
-  <!-- GitHub Streak Section -->
-  <br/>
-  <a href="https://github.com/abdullahxyz85">
-    <img src="https://streak-stats.demolab.com?user=abdullahxyz85&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" style="margin-top: 15px;"/>
-  </a>
+[![Abdullah github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark)](https://github.com/abdullahxyz85/github-readme-activity-graph)
 
 </div>
 
