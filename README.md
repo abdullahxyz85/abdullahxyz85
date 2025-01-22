@@ -27,26 +27,18 @@
 ## 🌈 Skill Sets
 <table align="center"><tr><td valign="top" width="25%">
   
-### Machine Learning
-<a href="https://github.com/arhamansari11/">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
+### Frontend
+<a href="https://github.com/your-github-username/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
-
-### Frontend  
-<a href="https://github.com/arhamansari11/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
         
 ### Backend
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/your-github-username/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=4" /> 
 </div>
 </a>
 
@@ -55,31 +47,36 @@
 <tr><td valign="top" width="25%">
 
 ### Code Editors  
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/your-github-username/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=vscode&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
     
 ###  Languages
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/your-github-username/">
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
+    <img src="https://skillicons.dev/icons?i=js,python&perline=4" /> 
 </div>
 </a>
 </td><td valign="top" width="25%">
 
 ### Others 
-<a href="https://github.com/arhamansari11/">
+<a href="https://github.com/your-github-username/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel,postman&perline=4" /> 
 </div>
 </a>
  </td> 
 </tr>
 </table>
 
+---
+
+### 🏆 Competitive Programming:
+- Solved **Advent of Code** (All 25 Days)
+- **MIT Winter Contest** (Ranked 128th Globally)
 ---
 
 ## 📢 Connect with Me
