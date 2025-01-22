@@ -25,59 +25,38 @@
 
 
 ## 🌈 Skill Sets
-<table align="center"><tr><td valign="top" width="25%">
-  
-### Frontend
-<a href="https://github.com/your-github-username/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-        
-### Backend
-<a href="https://github.com/your-github-username/">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=4" /> 
-</div>
-</a>
 
-</td>
-</tr>
-<tr><td valign="top" width="25%">
+#### 💻 Frontend Development
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat&logo=google-chrome&logoColor=white)
 
-### Code Editors  
-<a href="https://github.com/your-github-username/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=vscode&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-    
-###  Languages
-<a href="https://github.com/your-github-username/">
-<div align="center"> 
-    <img src="https://skillicons.dev/icons?i=js,python&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
+#### ⚙️ Backend Development
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Others 
-<a href="https://github.com/your-github-username/">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel,postman&perline=4" /> 
-</div>
-</a>
- </td> 
-</tr>
-</table>
+#### 🛠️ Tools & Platforms
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+#### 🏆 Competitive Programming
+- 🏅 Solved **Advent of Code** (All 25 Days)
+- 🏆 **MIT Winter Contest** (Ranked 128th Globally)
 
 ---
 
-### 🏆 Competitive Programming:
-- Solved **Advent of Code** (All 25 Days)
-- **MIT Winter Contest** (Ranked 128th Globally)
----
 
 ## 📢 Connect with Me
 <div align="center" style="padding: 20px; background: linear-gradient(to right, #4facfe, #00f2fe); border-radius: 15px;">
