@@ -10,13 +10,13 @@
 
 ---
 
-## 🔗 About Me
-•  Exploring advanced JavaScript and React
-•  Building Chrome extensions and web development projects
-•  Volunteer Teacher and Computer Science Student
-•  Active participant in coding challenges like Advent of Code
-•  Always excited to collaborate on open-source projects
-•  Enthusiastic about learning AI and machine learning
+## 🔗 About Me  
+• Exploring advanced JavaScript and React <br>  
+• Building Chrome extensions and web development projects <br>  
+• Volunteer Teacher and Computer Science Student <br>  
+• Active participant in coding challenges like Advent of Code <br>  
+• Always excited to collaborate on open-source projects <br>  
+• Enthusiastic about learning AI and machine learning  
 
 ---
 
