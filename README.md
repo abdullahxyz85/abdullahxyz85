@@ -117,29 +117,20 @@
 ## COMPLETED INTERNATIONAL HACKATHONS:
 
 <p float="left">
-  <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/netwizards/mediconnect"_blank">
+  <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/selfcode/network-traffic-anomaly-and-congestion-prediction"_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="390">
   </a>
   &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/strawberry-reasoning-with-o1/intellibots/dsa-helper-tool" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm10tscso0007356vztoxtsrn%2Fcm10tscso0007356vztoxtsrn_imageLink_gn1als0cv2.jpg&w=750&q=75" width="390">
-  </a>
-  &nbsp;
-    <a href="https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/binaryblitz/cropguard">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclyo3ojcg000r3b6vhsr9v8p1%2Fclyo3ojcg000r3b6vhsr9v8p1_imageLink_m3420t27.jpg&w=750&q=75" width="390">
-  </a>
- &nbsp; &nbsp;
    <a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/the-goat/astromind">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="390">-->
   </a>
   &nbsp; &nbsp;
- <a href="https://lablab.ai/event/fall-in-love-with-deepseek/deepfake/medimate">
+ <a href="https://lablab.ai/event/fall-in-love-with-deepseek/comic-me/comic-studio">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="390">
   </a>
     &nbsp; &nbsp;
-   <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink">
+   <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/competitivia-assistant-ia/competitivia-ai-assistant-mentor-ai">
      <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390">
   </a>
-#
----
-Thank you for visiting my profile! Let’s connect and collaborate on exciting projects. 🌟
+    &nbsp; &nbsp;
+
