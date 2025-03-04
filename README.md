@@ -101,8 +101,9 @@
 </div>
 ---
 
-## 🎯 GitHub Stats
+### GitHub Stats:
 
+  <!-- GitHub Stats Section -->
 <div >
 
   <!-- GitHub Stats Section -->
@@ -113,10 +114,12 @@
 
   <!-- Activity Graph -->
   <a href="https://github.com/abdullahxyz85/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&hide_border=true" alt="Saif Ur Rasool github activity graph" style="margin: 10px; border-radius: 10px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&hide_border=true" alt="Abdullah Jameel github activity graph" style="margin: 10px; border-radius: 10px;" />
   </a>
 
 </div>
+
+---
 
 ## COMPLETED INTERNATIONAL HACKATHONS:
 
