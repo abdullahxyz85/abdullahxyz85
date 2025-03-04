@@ -77,12 +77,7 @@
 </tr>
 </table>
 
-#### 🏆 Competitive Programming
-- 🏅 Solved **Advent of Code** (All 25 Days)
-- 🏆 **MIT Winter Contest** (Ranked 128th Globally)
-
 ---
-
 
 ## 📢 Connect with Me
 <div align="center" style="padding: 20px; background: linear-gradient(to right, #4facfe, #00f2fe); border-radius: 15px;">
@@ -99,6 +94,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer" alt="Portfolio" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 10px;"/>
   </a>
 </div>
+
 ---
 
 ### GitHub Stats:
@@ -120,7 +116,6 @@
 </div>
 
 ---
-
 ## COMPLETED INTERNATIONAL HACKATHONS:
 
 <p float="left">
