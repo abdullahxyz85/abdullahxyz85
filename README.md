@@ -1,5 +1,10 @@
 <!-- GitHub Profile README -->
 
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/abdullahxyz85)
+<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
+  Abdullah Jameel
+</h1>
+
 <h1 align="center">Hi, I'm Abdullah Jameel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 <h3 align="center">Software Engineer | 3x Intl Hackathon | MIT Winter Contest 2025 | LeetCoder 100+ | Learning AI & Python | Graphic Designer | Coding Enthusiast</h3>
 
