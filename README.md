@@ -102,7 +102,8 @@
 ---
 
 ## 🎯 GitHub Stats
-<div align="center">
+
+<div >
 
   <!-- GitHub Stats Section -->
   <a href="https://github.com/abdullahxyz85">
@@ -110,7 +111,10 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
 
-[![Abdullah github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark)](https://github.com/abdullahxyz85/github-readme-activity-graph)
+  <!-- Activity Graph -->
+  <a href="https://github.com/abdullahxyz85/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&hide_border=true" alt="Saif Ur Rasool github activity graph" style="margin: 10px; border-radius: 10px;" />
+  </a>
 
 </div>
 
