@@ -12,12 +12,12 @@
 ---
 
 ## 🔗 About Me  
-• Exploring advanced JavaScript and React <br>  
-• Building Chrome extensions and web development projects <br>  
-• Volunteer Teacher and Computer Science Student <br>  
-• Active participant in coding challenges like Advent of Code <br>  
-• Always excited to collaborate on open-source projects <br>  
-• Enthusiastic about learning AI and machine learning  
+- **@[GitHub](https://github.com/abdullahxyz85)** Contributing DSA material daily on GitHub and my achievements.
+- **@[LeetCode](https://leetcode.com/u/abdullahxyz85/)** Solved [140+](https://github.com/abdullahxyz85/Daily_Leetcoding) Data Structures & Algorithms problems on LeetCode.
+- **@[lablab.ai](https://lablab.ai/u/@AbdullahBhatti308)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
+- **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)**:Ranked 128 globally in begineer round
+- **@[Advent of Code]()**: Successfully completed 25 days coding challenges abd solved all the problems effectively.
+
 
 ---
 
