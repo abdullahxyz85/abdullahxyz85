@@ -101,14 +101,31 @@
 ### GitHub Stats:
 
   <!-- GitHub Stats Section -->
-<div >
+  <div >
+
+<p align="center">
+    <a href="https://github.com/arhamansari11">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arhamansari11&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arhamansari11&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
+
+
+ <p align="center">
+   <a href="https://github.com/arhamansari11"> 
+     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansari11&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
 
   <!-- GitHub Stats Section -->
-  <a href="https://github.com/abdullahxyz85">
+  <!--<a href="https://github.com/abdullahxyz85">
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
-  </a>
-
+  </a> -->
   <!-- Activity Graph -->
   <a href="https://github.com/abdullahxyz85/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&hide_border=true" alt="Abdullah Jameel github activity graph" style="margin: 10px; border-radius: 10px;" />
