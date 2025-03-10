@@ -80,7 +80,24 @@
 
 ---
 
-## 📢 Connect with Me
+ ## Connect with me🤝:
+<div align="center">
+    <a href="https://www.linkedin.com/in/abdullahjameel94/" target="_blank">
+    <img src="https://img.shields.io/badge/-Abdullah%20Jameel-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>
+</a>
+    <a target="_blank" href="mailto:abdullahxyz85@gmail.com">
+    <img src="https://img.shields.io/badge/-abdullahxyz85@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
+</a>
+    <a href="https://leetcode.com/abdullahxyz85/" target="_blank">
+    <img src="https://img.shields.io/badge/-Abdullah%20Jameel-FFA116?style=flat&logo=LeetCode&logoColor=white"/>
+</a>
+    <a href="https://lablab.ai/u/@AbdullahBhatti308" target="_blank">
+    <img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=internet-explorer&logoColor=white"/>
+</a>
+
+</div>
+
+<!--## 📢 Connect with Me
 <div align="center" style="padding: 20px; background: linear-gradient(to right, #4facfe, #00f2fe); border-radius: 15px;">
   <a href="https://www.linkedin.com/in/abdullahjameel94/" target="_blank" style="margin: 0 15px; text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50" style="border-radius: 50%; border: 2px solid white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
@@ -94,7 +111,7 @@
   <a href="https://abdullahjameel.dev" target="_blank" style="margin: 0 15px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer" alt="Portfolio" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 10px;"/>
   </a>
-</div>
+</div> -->
 
 ---
 
