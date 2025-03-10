@@ -158,7 +158,7 @@
   </a>
     &nbsp; &nbsp;
    <a href="">
-     <img src="" width="390">
+     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm7j5ojt4000v357siwh0dgt4%2Fcm7j5ojt4000v357siwh0dgt4_imageLink_fbqm0njy.jpg&w=1080&q=75" width="390">
   </a>
   <!-- &nbsp; &nbsp;
   <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant">
