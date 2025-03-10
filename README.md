@@ -80,7 +80,7 @@
 
 ---
 
- ## Connect with me🤝:
+ ##📢Connect with me:
 <div align="center">
     <a href="https://www.linkedin.com/in/abdullahjameel94/" target="_blank">
     <img src="https://img.shields.io/badge/-Abdullah%20Jameel-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>
