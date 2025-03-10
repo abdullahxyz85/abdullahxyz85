@@ -126,12 +126,12 @@
     <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahxyz85&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a> -->
-  ## Activity Graph:
+ <!-- ## Activity Graph:
   <a href="https://github.com/abdullahxyz85/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&hide_border=true" alt="Abdullah Jameel github activity graph" style="margin: 10px; border-radius: 10px;" />
   </a>
 
-</div>
+</div> -->
 
 ---
 ## COMPLETED INTERNATIONAL HACKATHONS:
@@ -191,3 +191,10 @@
      <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390">
   </a>
     &nbsp; &nbsp; --> 
+
+  ## Activity Graph:
+  <a href="https://github.com/abdullahxyz85/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&hide_border=true" alt="Abdullah Jameel github activity graph" style="margin: 10px; border-radius: 10px;" />
+  </a>
+
+</div>
