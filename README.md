@@ -25,58 +25,61 @@
 
 ## 🌈 Skill Sets
 
-<table align="center">
-<tr>
-<td valign="top" width="25%">
+<table align="center"><tr><td valign="top" width="25%">
   
-### Frontend Development
-<a href="https://github.com/abdullah-jameel/">
+### Machine Learning
+<a href="https://github.com/arhamansari11/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
 </div>
 </a>
-</td>
-<td valign="top" width="25%">
+</td><td valign="top" width="25%">
 
-### Backend Development
-<a href="https://github.com/abdullah-jameel/">
+### Frontend  
+<a href="https://github.com/arhamansari11/">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Backend
+<a href="https://github.com/arhamansari11/">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
 </a>
 
 </td>
 </tr>
-<tr>
-<td valign="top" width="25%">
+<tr><td valign="top" width="25%">
 
 ### Code Editors  
-<a href="https://github.com/abdullah-jameel/">
+<a href="https://github.com/arhamansari11/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=vscode&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
 </div>
 </a>
-</td>
-<td valign="top" width="25%">
+</td><td valign="top" width="25%">
     
-### Languages
-<a href="https://github.com/abdullah-jameel/">
+###  Languages
+<a href="https://github.com/arhamansari11/">
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=js,python,cpp&perline=4" /> 
+    <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
 </div>
 </a>
-</td>
-<td valign="top" width="25%">
+</td><td valign="top" width="25%">
 
-### Tools & Platforms
-<a href="https://github.com/abdullah-jameel/">
+### Others 
+<a href="https://github.com/arhamansari11/">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vercel&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
 </div>
 </a>
  </td> 
 </tr>
 </table>
+
 
 ---
 
