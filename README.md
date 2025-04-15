@@ -12,14 +12,14 @@
 ---
 
 ## 🔗 About Me
+- **@[Stanford Code in Place 2025]()** Selected as Section Leader among ~1400 all over the world to teach python to 10-15group of international students
 - **@[Harvard CS50x Puzzle Day Competition 2025](https://certificates.cs50.io/6bb8d938-6d20-4f87-a3b9-273e32d3afea.png?size=letter)** Solved all  9/9 Puzzles Given By Harvard University. Solved with my brilliant team **@[Logic Legends](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
 - **@[GitHub](https://github.com/abdullahxyz85)** Contributing DSA material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/abdullahxyz85/)** Solved [190+](https://github.com/abdullahxyz85/Daily_Leetcoding) Data Structures & Algorithms problems on LeetCode.
 - **@[lablab.ai](https://lablab.ai/u/@AbdullahBhatti308)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
 - **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)**:Ranked 128 globally in begineer round
 - **@[Advent of Code]()**: Successfully completed 25 days coding challenges abd solved all the problems effectively.
-
-- **@[Section Leader at CodeinPlace]()** I am selected as a Section Leader in CodeinPlace
+- **@[Section Leader at CodeinPlace]()** I am selected as a Section Leader in CodeinPlace for teaching 
 - **@[Typing Speed](https://www.linkedin.com/posts/abdullahjameel94_typingspeed-codingskills-hardworkpaysoff-activity-7302310794153656320-2bhy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)**: More than 95 WPM.
 
 
