@@ -17,6 +17,7 @@
 - **@[lablab.ai](https://lablab.ai/u/@AbdullahBhatti308)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
 - **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)**:Ranked 128 globally in begineer round
 - **@[Advent of Code]()**: Successfully completed 25 days coding challenges abd solved all the problems effectively.
+- **@[Harvard CS50x Puzzle Day Competition 2025](https://certificates.cs50.io/6bb8d938-6d20-4f87-a3b9-273e32d3afea.png?size=letter)** Solved all the 9/9 Puzzles Given By Harvard University
 - **@[Typing Speed](https://www.linkedin.com/posts/abdullahjameel94_typingspeed-codingskills-hardworkpaysoff-activity-7302310794153656320-2bhy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)**: More than 95 WPM.
 
 
