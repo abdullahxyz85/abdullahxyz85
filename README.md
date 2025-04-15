@@ -23,7 +23,7 @@
 ---
 
 
-# 🌈 Skill Sets
+## 🌈 Skill Sets
 
 <table align="center"><tr><td valign="top" width="25%">
   
