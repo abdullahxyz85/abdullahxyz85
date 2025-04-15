@@ -11,8 +11,8 @@
 
 ---
 
-## 🔗 About Me
-- **@[Stanford Code in Place 2025]()** Selected as Section Leader among ~1400 all over the world to teach python to 10-15group of international students
+# 🔗 About Me
+- **@[Stanford Code in Place 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316881832187219968/)** Selected as Section Leader among ~1400 all over the world to teach python to 10-15group of international students
 - **@[Harvard CS50x Puzzle Day Competition 2025](https://certificates.cs50.io/6bb8d938-6d20-4f87-a3b9-273e32d3afea.png?size=letter)** Solved all  9/9 Puzzles Given By Harvard University. Solved with my brilliant team **@[Logic Legends](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
 - **@[GitHub](https://github.com/abdullahxyz85)** Contributing DSA material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/abdullahxyz85/)** Solved [190+](https://github.com/abdullahxyz85/Daily_Leetcoding) Data Structures & Algorithms problems on LeetCode.
