@@ -20,7 +20,7 @@
 - **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)**:Ranked 128 globally in begineer round
 - **@[Advent of Code]()**: Successfully completed 25 days coding challenges abd solved all the problems effectively.
 - **@[Section Leader at CodeinPlace]()** I am selected as a Section Leader in CodeinPlace for teaching 
-- **@[Typing Speed](https://www.linkedin.com/posts/abdullahjameel94_typingspeed-codingskills-hardworkpaysoff-activity-7302310794153656320-2bhy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)**: More than 95 WPM.
+- **@[Typing Speed](https://www.linkedin.com/posts/abdullahjameel94_typingjourney-consistency-discipline-activity-7316542143076986880-KF-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)**: More than 100 WPM.
 
 
 ---
