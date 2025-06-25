@@ -14,6 +14,7 @@
 # 🔗 About Me
 - **@[Stanford Code in Place 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316881832187219968/)** Selected as Section Leader among ~1400 all over the world to teach python to 10-15group of international students
 - **@[Contribution At Stanford Code in Place'25](https://www.linkedin.com/feed/update/urn:li:activity:7339589406451814400/)** I’ve taught 250+ Teach Now sessions as part of Stanford’s Code in Place 2025 program.
+- **@[SuperStar Section Leader!](https://www.linkedin.com/posts/icode-guru_icodeguru-stanfordcodeinplace-icodeguru-activity-7342874990905561088-zexO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)** Selected as 1 of the top 9 Superstar Section Leaders out of 1400, after leading 250+ Teach Now sessions at Stanford Code in Place.
 - **@[Harvard CS50x Puzzle Day Competition 2025](https://certificates.cs50.io/6bb8d938-6d20-4f87-a3b9-273e32d3afea.png?size=letter)** Solved all  9/9 Complex Puzzles with my  team  **@[Logic Legends](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
 - **@[GitHub](https://github.com/abdullahxyz85)** Contributing DSA material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/abdullahxyz85/)** Solved [190+](https://github.com/abdullahxyz85/Daily_Leetcoding) Data Structures & Algorithms problems on LeetCode.
