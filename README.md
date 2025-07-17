@@ -105,6 +105,15 @@
 
 </div>
 
+---
+## LeetCode Stats & DSA
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+<div align= 'center'>
+    <img align= center src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/> <img align= center         src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
+</div>
+
 <!--## 📢 Connect with Me
 <div align="center" style="padding: 20px; background: linear-gradient(to right, #4facfe, #00f2fe); border-radius: 15px;">
   <a href="https://www.linkedin.com/in/abdullahjameel94/" target="_blank" style="margin: 0 15px; text-decoration: none;">
