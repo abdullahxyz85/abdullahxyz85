@@ -17,6 +17,7 @@
 - **@[SuperStar Section Leader!](https://www.linkedin.com/posts/icode-guru_icodeguru-stanfordcodeinplace-icodeguru-activity-7342874990905561088-zexO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)** Selected as 1 of the top 9 Superstar Section Leaders out of 1400, after leading 250+ Teach Now sessions at Stanford Code in Place.
 - **@[Harvard CS50x Puzzle Day Competition 2025](https://certificates.cs50.io/6bb8d938-6d20-4f87-a3b9-273e32d3afea.png?size=letter)** Solved all  9/9 Complex Puzzles with my  team  **@[Logic Legends](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
 - **@[GitHub](https://github.com/abdullahxyz85)** Contributing DSA material daily on GitHub and my achievements.
+- **@[Open Source Contribution Badge](https://www.holopin.io/userbadge/cmdc01of4299707l1rt1fvvxb)** Earned the Open Source Contribution badge after making my first contribution, excited to begin this journey in the open-source community!.
 - **@[LeetCode](https://leetcode.com/u/abdullahxyz85/)** Solved [190+](https://github.com/abdullahxyz85/Daily_Leetcoding) Data Structures & Algorithms problems on LeetCode.
 - **@[lablab.ai](https://lablab.ai/u/@AbdullahBhatti308)**: Competed in multiple international AI hackathons as part with a team of 6 international members.
 - **@[MIT Informatics Tournament 2025](https://mitit.org/Contest/ViewScoreboard/beginner-2025)**:Ranked 128 globally in begineer round
