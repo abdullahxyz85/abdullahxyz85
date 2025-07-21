@@ -146,15 +146,19 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/abdullahxyz85/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&hide_border=true" alt="Abdullah Jameel github activity graph" style="margin: 10px; border-radius: 10px; width: 60%; height: 60%"/>
+  </a>
+</p>
+
+<p align="center">
    <a href="https://github.com/abdullahxyz85"> 
      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahxyz85&show_icons=true&locale=en&layout=demo&theme=chartreuse-dark&hide_border=true" /> 
    </a>  
  </p>
  
-## Activity Graph:
-  <a href="https://github.com/abdullahxyz85/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&hide_border=true" alt="Abdullah Jameel github activity graph" style="margin: 10px; border-radius: 10px; width: 50%; height: 50%"/>
-  </a>
+<!-- ## Activity Graph: -->
+
   
   <!-- GitHub Stats Section -->
  <!-- <div >
