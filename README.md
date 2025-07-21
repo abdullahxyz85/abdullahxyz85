@@ -255,7 +255,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=abdullahxyz85&theme=chartreuse-dark&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=SaifRasool92&theme=chartreuse-dark&row=1&column=7)
 <!--
 </div>
 <div align='center'>
@@ -268,7 +268,7 @@
 
 </h3>
 
-<pre>
+<!--<pre>
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
                                 /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
@@ -280,4 +280,4 @@
                                   /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
                                  /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
+</pre>-->
