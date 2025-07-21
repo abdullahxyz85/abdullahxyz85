@@ -264,11 +264,12 @@
 
 <h3 align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=34e89e,0f3443&height=120&section=footer&animation=fadeIn&fontColor=ffffff" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff9900,ffff00,33cc33,3399ff,9900cc&height=120&section=footer&animation=fadeIn&fontColor=ffffff" 
     alt="Footer Banner" 
     style="margin-top: 20px;" 
   />
 </h3>
+
 
 
 <!--<h3 align="center">
