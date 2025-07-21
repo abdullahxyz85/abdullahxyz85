@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+## About Me:
 - **@[Stanford Code in Place 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316881832187219968/)** Selected as Section Leader among ~1400 all over the world to teach python to 10-15group of international students
 
 - **@[Contribution At Stanford Code in Place'25](https://www.linkedin.com/feed/update/urn:li:activity:7339589406451814400/)** I’ve taught 250+ Teach Now sessions as part of Stanford’s Code in Place 2025 program.
@@ -30,7 +30,7 @@
 ---
 
 
-## 🌈 Skill Sets
+## Skill Sets:
 
 <table align="center"><tr><td valign="top" width="25%">
   
@@ -88,9 +88,8 @@
 </table>
 
 
----
 
- ## 📢Connect with me:
+ ## Connect with Me:
 <div align="center">
     <a href="https://www.linkedin.com/in/abdullahjameel94/" target="_blank">
     <img src="https://img.shields.io/badge/-Abdullah%20Jameel-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>
@@ -107,14 +106,19 @@
 
 </div>
 
----
+
 ## LeetCode Stats & DSA
 <div align="center">
+  <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abdullahxyz85&animated=true" alt="LeetCode Badges" />
+</div>
+<!--<div align="center">
   <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 <div align= 'center'>
     <img align= center src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/> <img align= center         src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
-</div>
+</div>-->
 
 <!--## 📢 Connect with Me
 <div align="center" style="padding: 20px; background: linear-gradient(to right, #4facfe, #00f2fe); border-radius: 15px;">
