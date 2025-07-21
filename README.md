@@ -263,11 +263,18 @@
 </div>-->
 
 <h3 align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=120&section=footer&animation=fadeIn&fontColor=ffffff" 
+    alt="Footer Banner" 
+    style="margin-top: 20px;" 
+  />
+</h3>
+
+<!--<h3 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-</h3>
-
+</h3>-->
 <!--<pre>
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
