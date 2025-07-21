@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/abdullahxyz85)![](https://komarev.com/ghpvc/?username=abdullahxyz85)
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/abdullahxyz85) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=abdullahxyz85)
 <h1 align="center" style="font-family: 'Times New Roman',Times, serif;">Hi, I'm Abdullah Jameel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 <h3 align="center">Software Engineer | 6x Int'l Hackathon | LeetCoder 190+ | #128 Globally Ranked in MIT Informatics Winter Contest 2025 | Aspiring Developer | AI Enthusiast | Passionate Learner | Everyday explore and learn something new | @Icodeguru</h3>
 
