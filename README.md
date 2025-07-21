@@ -147,7 +147,7 @@
 
 <p align="center">
   <a href="https://github.com/abdullahxyz85/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&hide_border=true" alt="Abdullah Jameel github activity graph" style="margin: 10px; border-radius: 10px; width: 70%; height: 70%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahxyz85&theme=chartreuse-dark&layout=compact&hide_border=false" alt="Abdullah Jameel github activity graph" style="margin: 10px; border-radius: 10px; width: 80%; height: 80%"/>
   </a>
 </p>
 
