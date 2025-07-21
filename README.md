@@ -262,21 +262,12 @@
 <img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
 </div>-->
 
+
 <h3 align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff9900,ffff00,33cc33,3399ff,9900cc&height=120&section=footer&animation=fadeIn&fontColor=ffffff" 
-    alt="Footer Banner" 
-    style="margin-top: 20px;" 
-  />
-</h3>
-
-
-
-<!--<h3 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-</h3>-->
+</h3>
 <!--<pre>
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
