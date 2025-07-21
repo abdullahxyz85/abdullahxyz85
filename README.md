@@ -11,7 +11,7 @@
 
 ---
 
-# 🔗 About Me
+## About Me
 - **@[Stanford Code in Place 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316881832187219968/)** Selected as Section Leader among ~1400 all over the world to teach python to 10-15group of international students
 
 - **@[Contribution At Stanford Code in Place'25](https://www.linkedin.com/feed/update/urn:li:activity:7339589406451814400/)** I’ve taught 250+ Teach Now sessions as part of Stanford’s Code in Place 2025 program.
