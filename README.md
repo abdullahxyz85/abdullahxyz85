@@ -140,7 +140,7 @@
 
  ## GitHub Analytics
 
- ![](./profile-night-rainbow.svg)
+ <!--![](./profile-night-rainbow.svg)-->
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahxyz85&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
