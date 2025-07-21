@@ -109,9 +109,9 @@
 
 ## LeetCode Stats & DSA
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=chartreuse-dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abdullahxyz85&theme=chartreuse-dark&animated=true" alt="LeetCode Badges" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abdullahxyz85&theme=dark&animated=true" alt="LeetCode Badges" />
 </div>
 <!--<div align="center">
   <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
