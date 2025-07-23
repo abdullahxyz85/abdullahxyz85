@@ -2,7 +2,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/abdullahxyz85) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=abdullahxyz85)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AditiS2610) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/AditiS2610)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abdullahxyz85) &nbsp; &nbsp; [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abdullahxyz85)
 <br> <br> 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=AditiS2610&label=Profile%20views&color=0e75b6&style=flat" alt="Aditi Shree" /> </p>-->
