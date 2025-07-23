@@ -4,9 +4,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abdullahxyz85) &nbsp; &nbsp; [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abdullahxyz85)
 <br> <br> 
-
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=AditiS2610&label=Profile%20views&color=0e75b6&style=flat" alt="Aditi Shree" /> </p>-->
-
 <h1 align="center" style="font-family: 'Times New Roman',Times, serif;">Hi, I'm Abdullah Jameel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 <h3 align="center">Software Engineer | 6x Int'l Hackathon | LeetCoder 190+ | #128 Globally Ranked in MIT Informatics Winter Contest 2025 | Aspiring Developer | AI Enthusiast | Passionate Learner | Everyday explore and learn something new | @Icodeguru</h3>
 
