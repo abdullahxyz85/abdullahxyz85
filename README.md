@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/abdullahxyz85) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=abdullahxyz85)
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/abdullahxyz85) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=abdullahxyz85)  &nbsp; &nbsp; <a href="https://github.com/AditiS2610?tab=followers"><img src="https://img.shields.io/github/followers/AditiS2610?label=Followers&style=social" alt="GitHub Badge"></a>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abdullahxyz85) &nbsp; &nbsp; [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abdullahxyz85)
 <br> <br> 
