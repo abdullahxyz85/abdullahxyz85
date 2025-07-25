@@ -4,13 +4,17 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abdullahxyz85) &nbsp; &nbsp; [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abdullahxyz85)
 <br> <br> 
+
+![GitHub Profile Intro (1)](https://user-images.githubusercontent.com/77383186/153713519-25d4b7e2-82ea-4f71-b55e-c3b74740153f.gif)
+![](https://visitor-badge.glitch.me/badge?page_id=abdullahxyz85)
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=AditiS2610&label=Profile%20views&color=0e75b6&style=flat" alt="Aditi Shree" /> </p>-->
-<h1 align="center" style="font-family: 'Times New Roman',Times, serif;">Hi, I'm Abdullah Jameel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
+<!-- <h1 align="center" style="font-family: 'Times New Roman',Times, serif;">Hi, I'm Abdullah Jameel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 <h3 align="center">Software Engineer | 6x Int'l Hackathon | LeetCoder 190+ | #128 Globally Ranked in MIT Informatics Winter Contest 2025 | Aspiring Developer | AI Enthusiast | Passionate Learner | Everyday explore and learn something new | @Icodeguru</h3>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p>
+</p> -->
 
 
 ---
