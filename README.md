@@ -3,7 +3,7 @@
 [![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/abdullahxyz85) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=abdullahxyz85)  &nbsp; &nbsp; <a href="https://github.com/abdullahxyz85?tab=followers"><img src="https://img.shields.io/github/followers/abdullahxyz85?label=Followers&style=social" alt="GitHub Badge"></a>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abdullahxyz85) &nbsp; &nbsp; [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abdullahxyz85)
-<br> <br> 
+
 
 <!-- ![GitHub Profile Intro (1)](https://user-images.githubusercontent.com/77383186/153713519-25d4b7e2-82ea-4f71-b55e-c3b74740153f.gif)
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahxyz85)-->
