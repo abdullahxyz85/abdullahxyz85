@@ -114,6 +114,9 @@
 
 </div>
 
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## LeetCode Stats & DSA
 <div align="center">
@@ -144,7 +147,9 @@
   </a>
 </div> -->
 
----
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
  ## GitHub Analytics
 
@@ -166,6 +171,10 @@
      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahxyz85&show_icons=true&locale=en&layout=demo&theme=chartreuse-dark&hide_border=true" /> 
    </a>  
  </p>
+
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
  
 <!-- ## Activity Graph: -->
 
@@ -265,7 +274,10 @@
      <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390">
   </a>
     &nbsp; &nbsp; --> 
-
+    
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 </div>
 
@@ -280,12 +292,15 @@
 <img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
 </div>-->
 
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
-<h3 align="center">
+<!--<h3 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-</h3>
+</h3> -->
 <!--<pre>
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
