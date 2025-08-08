@@ -16,7 +16,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
 </p> 
 
----
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## About Me:
 - **@[Stanford Code in Place 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316881832187219968/)** Selected as Section Leader among ~1400 all over the world to teach python to 10-15group of international students
