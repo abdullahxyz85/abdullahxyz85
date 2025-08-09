@@ -5,7 +5,8 @@
 
 
 <!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Abdullah%20Jameel%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Hackathon%20Finalist&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Abdullah%20Jameel%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20iCode%20Guru%20Mentorship%20Alumni%20%7C%20Hackathon%20Winner%20%7C%20Open-Source%20Contributor&descAlignY=60)
+
 
 <!-- ![GitHub Profile Intro (1)](https://user-images.githubusercontent.com/77383186/153713519-25d4b7e2-82ea-4f71-b55e-c3b74740153f.gif)
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahxyz85)-->
