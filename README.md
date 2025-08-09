@@ -6,6 +6,9 @@
 
 <!-- Animated Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Abdullah%20Jameel%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Winner%20%7C%20Open-Source%20Contributor&descAlignY=60)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
+</p> 
 
 
 <!-- ![GitHub Profile Intro (1)](https://user-images.githubusercontent.com/77383186/153713519-25d4b7e2-82ea-4f71-b55e-c3b74740153f.gif)
@@ -14,10 +17,6 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=AditiS2610&label=Profile%20views&color=0e75b6&style=flat" alt="Aditi Shree" /> </p>-->
 <!-- <h1 align="center" style="font-family: 'Times New Roman',Times, serif;">Hi, I'm Abdullah Jameel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 <h3 align="center">Software Engineer | 6x Int'l Hackathon | LeetCoder 190+ | #128 Globally Ranked in MIT Informatics Winter Contest 2025 | Aspiring Developer | AI Enthusiast | Passionate Learner | Everyday explore and learn something new | @Icodeguru</h3> -->
-
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
