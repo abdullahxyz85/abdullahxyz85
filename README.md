@@ -8,6 +8,20 @@
 <!-- Animated Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Abdullah%20Jameel%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Winner%20%7C%20Open-Source%20Contributor&descAlignY=60)
 
+<!-- Animated Social Icons -->
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="GitHub" width="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername/">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="LinkedIn" width="50"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Email" width="50"/>
+  </a>
+</p>
+
+
 <!-- Animated Tech Logos -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
