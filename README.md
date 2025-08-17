@@ -217,7 +217,6 @@
 
 </div> -->
 
----
 ## COMPLETED INTERNATIONAL HACKATHONS:
 
 <p float="left">
