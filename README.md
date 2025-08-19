@@ -102,11 +102,9 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhxcWQ0cnFtd3BoNTk1bjB0dnNqMTllY3g2a2JkcmU0bjdqeG1mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yhXPFygSaOuzmnq8tF/giphy.gif" width="550" />
-
-
  ## Connect with Me:
 <div align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhxcWQ0cnFtd3BoNTk1bjB0dnNqMTllY3g2a2JkcmU0bjdqeG1mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yhXPFygSaOuzmnq8tF/giphy.gif" width="550" />
     <a href="https://www.linkedin.com/in/abdullahjameel94/" target="_blank">
     <img src="https://img.shields.io/badge/-Abdullah%20Jameel-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>
 </a>
