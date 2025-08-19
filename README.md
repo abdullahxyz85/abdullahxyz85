@@ -104,7 +104,6 @@
 
  ## Connect with Me:
 <div align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhxcWQ0cnFtd3BoNTk1bjB0dnNqMTllY3g2a2JkcmU0bjdqeG1mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yhXPFygSaOuzmnq8tF/giphy.gif" width="550" />
     <a href="https://www.linkedin.com/in/abdullahjameel94/" target="_blank">
     <img src="https://img.shields.io/badge/-Abdullah%20Jameel-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>
 </a>
@@ -117,7 +116,7 @@
     <a href="https://lablab.ai/u/@AbdullahBhatti308" target="_blank">
     <img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=internet-explorer&logoColor=white"/>
 </a>
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhxcWQ0cnFtd3BoNTk1bjB0dnNqMTllY3g2a2JkcmU0bjdqeG1mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yhXPFygSaOuzmnq8tF/giphy.gif" width="550" />
 </div>
 
 <div align="center">
