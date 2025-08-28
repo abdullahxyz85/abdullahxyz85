@@ -126,9 +126,9 @@
 
 ## LeetCode Stats & DSA
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=300px/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abdullahxyz85&theme=dark&animated=true" alt="LeetCode Badges" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=abdullahxyz85&theme=dark&animated=true" alt="LeetCode Badges" height=300px/>
 </div>
 <!--<div align="center">
   <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
@@ -154,7 +154,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
 
  ## GitHub Analytics
