@@ -44,7 +44,13 @@
 
 ## Skill Sets:
 
-<table align="center"><tr><td valign="top" width="25%">
+> Tools, languages, and other things I am working with.
+<a href="https://github.com/arhamansari11/">
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,mysql,jwt,firebase,streamlit,python,java,c,csharp,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,opencv,yolo,yarn,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,v0,kaggle,netlify,svg,notion,slack,discord,chatgpt,anaconda,axios,cursor,powershell" />
+</p>
+</a>
+<!--<table align="center"><tr><td valign="top" width="25%">
   
 ### Machine Learning
 <a href="https://github.com/arhamansari11/">
@@ -101,7 +107,7 @@
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
-</div>
+</div>-->
 
  ## Connect with Me:
 <div align="center">
