@@ -37,6 +37,7 @@
 - **@[Advent of Code]()**: Successfully completed 25 days coding challenges abd solved all the problems effectively.
 - **@[Section Leader at CodeinPlace]()** I am selected as a Section Leader in CodeinPlace for teaching 
 - **@[Typing Speed](https://www.linkedin.com/posts/abdullahjameel94_typingjourney-consistency-discipline-activity-7316542143076986880-KF-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)**: More than 100 WPM.
+> Grateful for your visit! Check out my work, reach out anytime, and let’s collaborate to turn ideas into reality.
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
