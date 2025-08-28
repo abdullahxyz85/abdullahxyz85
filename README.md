@@ -51,7 +51,6 @@
 </p>
 </a>
 <!--<table align="center"><tr><td valign="top" width="25%">
-  
 ### Machine Learning
 <a href="https://github.com/arhamansari11/">
 <div align="center">
@@ -59,7 +58,6 @@
 </div>
 </a>
 </td><td valign="top" width="25%">
-
 ### Frontend  
 <a href="https://github.com/arhamansari11/">
 <div align="center">  
@@ -67,18 +65,15 @@
 </div>
 </a>
  </td><td valign="top" width="25%">
-        
 ### Backend
 <a href="https://github.com/arhamansari11/">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
 </div>
 </a>
-
 </td>
 </tr>
 <tr><td valign="top" width="25%">
-
 ### Code Editors  
 <a href="https://github.com/arhamansari11/">
 <div align="center">  
@@ -86,7 +81,6 @@
 </div>
 </a>
 </td><td valign="top" width="25%">
-    
 ###  Languages
 <a href="https://github.com/arhamansari11/">
 <div align="center"> 
@@ -94,7 +88,6 @@
 </div>
 </a>
 </td><td valign="top" width="25%">
-
 ### Others 
 <a href="https://github.com/arhamansari11/">
 <div align="center">  
@@ -103,11 +96,11 @@
 </a>
  </td> 
 </tr>
-</table>
+</table>-->
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
-</div>-->
+</div>
 
  ## Connect with Me:
 <div align="center">
