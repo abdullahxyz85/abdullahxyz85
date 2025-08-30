@@ -43,7 +43,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-## Skill Sets:
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px"> Skill Sets:
 
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/abdullahxyz85/">
