@@ -218,7 +218,7 @@
 
 </div> -->
 
-## COMPLETED INTERNATIONAL HACKATHONS:
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> COMPLETED INTERNATIONAL HACKATHONS:
 
 <p float="left">
   <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant" target="_blank">
