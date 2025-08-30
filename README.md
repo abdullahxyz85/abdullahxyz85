@@ -124,7 +124,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-## LeetCode Stats & DSA
+## LeetCode Stats & DSA <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=300px/>
   &nbsp;&nbsp;&nbsp;
