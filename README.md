@@ -23,7 +23,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
-## About Me:
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About Me:
 - **@[Lead with AI Agent Hackathon 2025](https://www.linkedin.com/posts/abdullahjameel94_leadwithaiagents-leadwithaiagents-aihackathon-activity-7358786168097775616-Hq2j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)** Secured **3rd Place** with **Team Mavericks** in a 72-hour international hackathon by GENAI.works among 3000+ participants worldwide. [Certificate](https://github.com/user-attachments/assets/8d9f5592-4844-44d1-9caf-416396d05a90)
 - **@[Stanford Code in Place 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316881832187219968/)** Selected as Section Leader among ~1400 all over the world to teach python to 10-15group of international students
 - **@[Contribution At Stanford Code in Place'25](https://www.linkedin.com/feed/update/urn:li:activity:7339589406451814400/)** I’ve taught 250+ Teach Now sessions as part of Stanford’s Code in Place 2025 program.
