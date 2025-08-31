@@ -24,6 +24,7 @@
 </div>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br> <br> 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About Me:
 - **@[Lead with AI Agent Hackathon 2025](https://www.linkedin.com/posts/abdullahjameel94_leadwithaiagents-leadwithaiagents-aihackathon-activity-7358786168097775616-Hq2j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)** Secured **3rd Place** with **Team Mavericks** in a 72-hour international hackathon by GENAI.works among 3000+ participants worldwide. [Certificate](https://github.com/user-attachments/assets/8d9f5592-4844-44d1-9caf-416396d05a90)
