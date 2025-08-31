@@ -1,5 +1,4 @@
 <!-- GitHub Profile README good-->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/abdullahxyz85) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=abdullahxyz85)  &nbsp; &nbsp; <a href="https://github.com/abdullahxyz85?tab=followers"><img src="https://img.shields.io/github/followers/abdullahxyz85?label=Followers&style=social" alt="GitHub Badge"></a> &nbsp; &nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/abdullahxyz85) &nbsp; &nbsp; [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abdullahxyz85)
 <br> <br> 
@@ -23,6 +22,8 @@
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34px"> About Me:
 - **@[Lead with AI Agent Hackathon 2025](https://www.linkedin.com/posts/abdullahjameel94_leadwithaiagents-leadwithaiagents-aihackathon-activity-7358786168097775616-Hq2j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFAE-g0B0fcS0OGwyJnhVIfe9NLOuS1NmyU)** Secured **3rd Place** with **Team Mavericks** in a 72-hour international hackathon by GENAI.works among 3000+ participants worldwide. [Certificate](https://github.com/user-attachments/assets/8d9f5592-4844-44d1-9caf-416396d05a90)
