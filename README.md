@@ -17,7 +17,7 @@
     alt="1747315993754-Recovered" 
     width="1400" 
     height="100%" 
-    style="border-radius: 100px;"
+    style="border-radius: 30%;"
   />
 </a>
 
