@@ -7,9 +7,20 @@
 <!-- Animated Header -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Abdullah%20Jameel%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Winner%20%7C%20Open-Source%20Contributor&descAlignY=60)-->
 
-<a align='center' href="https://www.linkedin.com/in/abdullahjameel94/">
+<!-- <a align='center' href="https://www.linkedin.com/in/abdullahjameel94/">
   <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/36ba283f-e18a-4a51-ab36-514cf4ea3d24" />
+</a> -->
+
+<a align="center" href="https://www.linkedin.com/in/abdullahjameel94/">
+  <img 
+    src="https://github.com/user-attachments/assets/36ba283f-e18a-4a51-ab36-514cf4ea3d24" 
+    alt="1747315993754-Recovered" 
+    width="1400" 
+    height="100%" 
+    style="border-radius: 20px;"
+  />
 </a>
+
 
 <!-- <img width="2048" height="512" alt="Add a heading (1)" src="https://github.com/user-attachments/assets/36ba283f-e18a-4a51-ab36-514cf4ea3d24" /> -->
 
