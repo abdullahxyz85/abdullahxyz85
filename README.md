@@ -141,10 +141,6 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhxcWQ0cnFtd3BoNTk1bjB0dnNqMTllY3g2a2JkcmU0bjdqeG1mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yhXPFygSaOuzmnq8tF/giphy.gif" width="550" />
 </div>
 
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
-</div>
-
 ## LeetCode Stats & DSA <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/abdullahxyz85?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=300px/>
