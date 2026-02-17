@@ -24,9 +24,9 @@
 
 <!-- <img width="2048" height="512" alt="Add a heading (1)" src="https://github.com/user-attachments/assets/36ba283f-e18a-4a51-ab36-514cf4ea3d24" /> -->
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p> 
+</p>  -->
 
 
 <!-- ![GitHub Profile Intro (1)](https://user-images.githubusercontent.com/77383186/153713519-25d4b7e2-82ea-4f71-b55e-c3b74740153f.gif)
