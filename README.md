@@ -11,7 +11,7 @@
   <img width="1400" height="100%" alt="1747315993754-Recovered" src="https://github.com/user-attachments/assets/36ba283f-e18a-4a51-ab36-514cf4ea3d24" />
 </a> -->
 
-<img width="1400" height="100%" alt="Gemini_Generated_Image_ybapqdybapqdybap" src="https://github.com/user-attachments/assets/b311e713-05a4-4689-b7e5-52d97430cde4" />
+<!-- <img width="1400" height="100%" alt="Gemini_Generated_Image_ybapqdybapqdybap" src="https://github.com/user-attachments/assets/b311e713-05a4-4689-b7e5-52d97430cde4" /> -->
 
 
 <a align="center" href="https://www.linkedin.com/in/abdullahjameel94/">
